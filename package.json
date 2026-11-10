@@ -1,0 +1,1 @@
+{"description":"Minimal zero-dependency Node app for Caasify Launch","engines":{"node":">=18"},"main":"server.js","name":"laughing-octo-winner","private":true,"scripts":{"start":"node server.js"},"version":"1.0.0"}
